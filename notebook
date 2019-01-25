@@ -1,0 +1,9 @@
+环境： 
+Red Hat 7.4
+jumpserver : 192.168.4.98
+client : 192.168.4.99
+关闭firewall，关闭selinux
+
+依赖包：
+
+
